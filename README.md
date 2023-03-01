@@ -1,5 +1,5 @@
 
-<a href=#><img src="/img/ban1.gif"></a>
+<a href=#><img src="/ban1.gif"></a>
 <br>
 <h1 align="center"> <strong> CASH CASTLE🤑 </strong> </h1> 
 <h1 align="center"><a href="https://thowfeeksalim.github.io/cash-castle-ui">Live Demo</a></h1>
